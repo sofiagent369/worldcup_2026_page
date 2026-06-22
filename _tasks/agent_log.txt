@@ -12,3 +12,5 @@
 [2026-06-22 16:04:34] [IN_PROGRESS] task_008: Crear el archivo README.md
 [2026-06-22 16:05:03] [COMPLETED] task_008: Crear el archivo README.md
 [2026-06-22 16:05:06] [IN_PROGRESS] task_002: Crear la estructura de navegación
+[2026-06-22 16:05:53] [COMPLETED] task_002: Crear la estructura de navegación
+[2026-06-22 16:05:56] [IN_PROGRESS] task_003: Crear los páginas de cada sección del Mundial 2026

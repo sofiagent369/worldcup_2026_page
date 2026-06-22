@@ -7,6 +7,10 @@
     {
       "content": "Agente ✍️ Escritor/Documentador completó: Crear el archivo README.md. Archivos: src/README.md",
       "timestamp": "2026-06-22T16:05:03.883724"
+    },
+    {
+      "content": "Agente ⚛️ Experto Frontend completó: Crear la estructura de navegación. Archivos: src/index.html, src/style.css",
+      "timestamp": "2026-06-22T16:05:53.826263"
     }
   ],
   "decisions": [],
@@ -18,7 +22,12 @@
     ],
     "frontend_expert": [
       "src/index.html",
-      "src/style.css"
+      "src/style.css",
+      "src/pages/home.html",
+      "src/pages/clásicos.html",
+      "src/pages/premios.html",
+      "src/pages/futbol_clubes.html",
+      "src/pages/rankings.html"
     ]
   }
 }
