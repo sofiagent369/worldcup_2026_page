@@ -1,0 +1,10 @@
+{
+  "context": [],
+  "decisions": [],
+  "file_map": {
+    "writer_agent": [
+      "src/index.html",
+      "src/style.css"
+    ]
+  }
+}
