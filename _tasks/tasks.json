@@ -41,23 +41,29 @@
       "title": "Crear los páginas de cada sección del Mundial 2026",
       "description": "Cada página debe tener su propio archivo HTML. Por ejemplo, 'Clásicos.html', 'Premios.html', etc.",
       "assigned_to": "frontend_expert",
-      "status": "in_progress",
+      "status": "completed",
       "priority": 3,
       "dependencies": [
         "task_001"
       ],
-      "output_files": [],
-      "output_summary": "",
+      "output_files": [
+        "src/pages/home.html",
+        "src/pages/clásicos.html",
+        "src/pages/premios.html",
+        "src/pages/futbol_clubes.html",
+        "src/pages/rankings.html"
+      ],
+      "output_summary": "Tarea completada. | Archivos: src/pages/home.html, src/pages/clásicos.html, src/pages/premios.html, src/pages/futbol_clubes.html, src/pages/rankings.html",
       "created_at": "2026-06-22T16:03:45.358975",
       "started_at": "2026-06-22T16:05:56.115200",
-      "completed_at": null
+      "completed_at": "2026-06-22T16:08:05.739195"
     },
     {
       "id": "task_004",
       "title": "Estilizar las páginas con Bootstrap o CSS personalizado",
       "description": "Aplicar estilos Bootstrap para la navegación y el contenido de cada página. También puedes añadir estilos propios si es necesario.",
       "assigned_to": "frontend_expert",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 4,
       "dependencies": [
         "task_001"
@@ -65,7 +71,7 @@
       "output_files": [],
       "output_summary": "",
       "created_at": "2026-06-22T16:03:45.359990",
-      "started_at": null,
+      "started_at": "2026-06-22T16:08:08.008256",
       "completed_at": null
     },
     {
@@ -133,5 +139,5 @@
       "completed_at": "2026-06-22T16:05:03.883724"
     }
   ],
-  "updated_at": "2026-06-22T16:05:56.115745"
+  "updated_at": "2026-06-22T16:08:08.008256"
 }
