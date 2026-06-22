@@ -121,16 +121,18 @@
       "title": "Prueba y ajuste del sitio web",
       "description": "Realizar pruebas en diferentes navegadores para asegurarse de que el sitio funcione bien. Ajustar los estilos según sea necesario.",
       "assigned_to": "frontend_expert",
-      "status": "in_progress",
+      "status": "completed",
       "priority": 7,
       "dependencies": [
         "task_001"
       ],
-      "output_files": [],
-      "output_summary": "",
+      "output_files": [
+        "src/styles.css"
+      ],
+      "output_summary": "Tarea completada. | Archivos: src/styles.css",
       "created_at": "2026-06-22T16:03:45.362861",
       "started_at": "2026-06-22T16:12:11.821240",
-      "completed_at": null
+      "completed_at": "2026-06-22T16:12:54.021462"
     },
     {
       "id": "task_008",
@@ -149,5 +151,5 @@
       "completed_at": "2026-06-22T16:05:03.883724"
     }
   ],
-  "updated_at": "2026-06-22T16:12:11.821240"
+  "updated_at": "2026-06-22T16:12:54.021462"
 }
