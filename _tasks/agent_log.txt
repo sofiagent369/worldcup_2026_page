@@ -8,3 +8,5 @@
 [2026-06-22 16:03:45] [CREATED] task_007: Prueba y ajuste del sitio web → frontend_expert
 [2026-06-22 16:03:45] [CREATED] task_008: Crear el archivo README.md → writer_agent
 [2026-06-22 16:03:46] [IN_PROGRESS] task_001: Crear estructura básica del sitio web
+[2026-06-22 16:04:32] [COMPLETED] task_001: Crear estructura básica del sitio web
+[2026-06-22 16:04:34] [IN_PROGRESS] task_008: Crear el archivo README.md

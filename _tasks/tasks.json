@@ -5,14 +5,17 @@
       "title": "Crear estructura básica del sitio web",
       "description": "Crear los archivos index.html y style.css, e importar Bootstrap si es necesario. Definir las hojas de estilo básicas para el sitio.",
       "assigned_to": "writer_agent",
-      "status": "in_progress",
+      "status": "completed",
       "priority": 1,
       "dependencies": [],
-      "output_files": [],
-      "output_summary": "",
+      "output_files": [
+        "src/index.html",
+        "src/style.css"
+      ],
+      "output_summary": "Tarea completada. | Archivos: src/index.html, src/style.css",
       "created_at": "2026-06-22T16:03:45.352833",
       "started_at": "2026-06-22T16:03:46.015062",
-      "completed_at": null
+      "completed_at": "2026-06-22T16:04:32.273904"
     },
     {
       "id": "task_002",
@@ -115,15 +118,15 @@
       "title": "Crear el archivo README.md",
       "description": "Generar un archivo README.md que describa cómo instalar y usar el sitio web. Asegurarse de incluir instrucciones para los archivos, la estructura del sitio, las tecnologías usadas y cómo se puede ejecutar.",
       "assigned_to": "writer_agent",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 1,
       "dependencies": [],
       "output_files": [],
       "output_summary": "",
       "created_at": "2026-06-22T16:03:45.371039",
-      "started_at": null,
+      "started_at": "2026-06-22T16:04:34.584000",
       "completed_at": null
     }
   ],
-  "updated_at": "2026-06-22T16:03:46.015062"
+  "updated_at": "2026-06-22T16:04:34.584000"
 }
