@@ -63,23 +63,25 @@
       "title": "Estilizar las páginas con Bootstrap o CSS personalizado",
       "description": "Aplicar estilos Bootstrap para la navegación y el contenido de cada página. También puedes añadir estilos propios si es necesario.",
       "assigned_to": "frontend_expert",
-      "status": "in_progress",
+      "status": "completed",
       "priority": 4,
       "dependencies": [
         "task_001"
       ],
-      "output_files": [],
-      "output_summary": "",
+      "output_files": [
+        "src/styles.css"
+      ],
+      "output_summary": "Tarea completada. | Archivos: src/styles.css",
       "created_at": "2026-06-22T16:03:45.359990",
       "started_at": "2026-06-22T16:08:08.008256",
-      "completed_at": null
+      "completed_at": "2026-06-22T16:08:37.513362"
     },
     {
       "id": "task_005",
       "title": "Añadir contenido a las páginas",
       "description": "Agregar texto, imágenes y otros elementos a cada página. Puedes usar Markdown en los archivos para crear elementos de texto interactivos.",
       "assigned_to": "writer_agent",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 5,
       "dependencies": [
         "task_001"
@@ -87,7 +89,7 @@
       "output_files": [],
       "output_summary": "",
       "created_at": "2026-06-22T16:03:45.362861",
-      "started_at": null,
+      "started_at": "2026-06-22T16:08:39.726378",
       "completed_at": null
     },
     {
@@ -139,5 +141,5 @@
       "completed_at": "2026-06-22T16:05:03.883724"
     }
   ],
-  "updated_at": "2026-06-22T16:08:08.008256"
+  "updated_at": "2026-06-22T16:08:39.726378"
 }

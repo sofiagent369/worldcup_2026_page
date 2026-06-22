@@ -16,3 +16,5 @@
 [2026-06-22 16:05:56] [IN_PROGRESS] task_003: Crear los páginas de cada sección del Mundial 2026
 [2026-06-22 16:08:05] [COMPLETED] task_003: Crear los páginas de cada sección del Mundial 2026
 [2026-06-22 16:08:08] [IN_PROGRESS] task_004: Estilizar las páginas con Bootstrap o CSS personalizado
+[2026-06-22 16:08:37] [COMPLETED] task_004: Estilizar las páginas con Bootstrap o CSS personalizado
+[2026-06-22 16:08:39] [IN_PROGRESS] task_005: Añadir contenido a las páginas
