@@ -81,23 +81,29 @@
       "title": "Añadir contenido a las páginas",
       "description": "Agregar texto, imágenes y otros elementos a cada página. Puedes usar Markdown en los archivos para crear elementos de texto interactivos.",
       "assigned_to": "writer_agent",
-      "status": "in_progress",
+      "status": "completed",
       "priority": 5,
       "dependencies": [
         "task_001"
       ],
-      "output_files": [],
-      "output_summary": "",
+      "output_files": [
+        "src/pages/home.html",
+        "src/pages/clásicos.html",
+        "src/pages/premios.html",
+        "src/pages/futbol_clubes.html",
+        "src/pages/rankings.html"
+      ],
+      "output_summary": "Tarea completada. | Archivos: src/pages/home.html, src/pages/clásicos.html, src/pages/premios.html, src/pages/futbol_clubes.html, src/pages/rankings.html",
       "created_at": "2026-06-22T16:03:45.362861",
       "started_at": "2026-06-22T16:08:39.726378",
-      "completed_at": null
+      "completed_at": "2026-06-22T16:11:25.259217"
     },
     {
       "id": "task_006",
       "title": "Optimizar la carga del sitio web",
       "description": "Asegurar que la página se cargue de manera rápida y eficiente. Esto puede incluir minificar archivos, optimizar imágenes y usar la biblioteca jQuery.",
       "assigned_to": "frontend_expert",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 6,
       "dependencies": [
         "task_001"
@@ -105,7 +111,7 @@
       "output_files": [],
       "output_summary": "",
       "created_at": "2026-06-22T16:03:45.362861",
-      "started_at": null,
+      "started_at": "2026-06-22T16:11:27.508224",
       "completed_at": null
     },
     {
@@ -141,5 +147,5 @@
       "completed_at": "2026-06-22T16:05:03.883724"
     }
   ],
-  "updated_at": "2026-06-22T16:08:39.726378"
+  "updated_at": "2026-06-22T16:11:27.508224"
 }

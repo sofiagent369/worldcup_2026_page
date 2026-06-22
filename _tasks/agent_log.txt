@@ -18,3 +18,5 @@
 [2026-06-22 16:08:08] [IN_PROGRESS] task_004: Estilizar las páginas con Bootstrap o CSS personalizado
 [2026-06-22 16:08:37] [COMPLETED] task_004: Estilizar las páginas con Bootstrap o CSS personalizado
 [2026-06-22 16:08:39] [IN_PROGRESS] task_005: Añadir contenido a las páginas
+[2026-06-22 16:11:25] [COMPLETED] task_005: Añadir contenido a las páginas
+[2026-06-22 16:11:27] [IN_PROGRESS] task_006: Optimizar la carga del sitio web
