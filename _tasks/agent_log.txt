@@ -10,3 +10,5 @@
 [2026-06-22 16:03:46] [IN_PROGRESS] task_001: Crear estructura básica del sitio web
 [2026-06-22 16:04:32] [COMPLETED] task_001: Crear estructura básica del sitio web
 [2026-06-22 16:04:34] [IN_PROGRESS] task_008: Crear el archivo README.md
+[2026-06-22 16:05:03] [COMPLETED] task_008: Crear el archivo README.md
+[2026-06-22 16:05:06] [IN_PROGRESS] task_002: Crear la estructura de navegación

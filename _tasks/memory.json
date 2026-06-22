@@ -3,6 +3,10 @@
     {
       "content": "Agente ✍️ Escritor/Documentador completó: Crear estructura básica del sitio web. Archivos: src/index.html, src/style.css",
       "timestamp": "2026-06-22T16:04:32.273904"
+    },
+    {
+      "content": "Agente ✍️ Escritor/Documentador completó: Crear el archivo README.md. Archivos: src/README.md",
+      "timestamp": "2026-06-22T16:05:03.883724"
     }
   ],
   "decisions": [],
@@ -11,6 +15,10 @@
       "src/index.html",
       "src/style.css",
       "src/README.md"
+    ],
+    "frontend_expert": [
+      "src/index.html",
+      "src/style.css"
     ]
   }
 }

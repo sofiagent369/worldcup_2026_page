@@ -22,7 +22,7 @@
       "title": "Crear la estructura de navegación",
       "description": "Agregar un menú nav en HTML, con opciones para Home, Clásicos, Premios, Futbol Clubes y Rankings. Establecer las clases correspondientes en CSS.",
       "assigned_to": "frontend_expert",
-      "status": "pending",
+      "status": "in_progress",
       "priority": 2,
       "dependencies": [
         "task_001"
@@ -30,7 +30,7 @@
       "output_files": [],
       "output_summary": "",
       "created_at": "2026-06-22T16:03:45.356847",
-      "started_at": null,
+      "started_at": "2026-06-22T16:05:06.129383",
       "completed_at": null
     },
     {
@@ -118,15 +118,17 @@
       "title": "Crear el archivo README.md",
       "description": "Generar un archivo README.md que describa cómo instalar y usar el sitio web. Asegurarse de incluir instrucciones para los archivos, la estructura del sitio, las tecnologías usadas y cómo se puede ejecutar.",
       "assigned_to": "writer_agent",
-      "status": "in_progress",
+      "status": "completed",
       "priority": 1,
       "dependencies": [],
-      "output_files": [],
-      "output_summary": "",
+      "output_files": [
+        "src/README.md"
+      ],
+      "output_summary": "Tarea completada. | Archivos: src/README.md",
       "created_at": "2026-06-22T16:03:45.371039",
       "started_at": "2026-06-22T16:04:34.584000",
-      "completed_at": null
+      "completed_at": "2026-06-22T16:05:03.883724"
     }
   ],
-  "updated_at": "2026-06-22T16:04:34.584000"
+  "updated_at": "2026-06-22T16:05:06.129383"
 }
