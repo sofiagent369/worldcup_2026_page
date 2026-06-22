@@ -20,3 +20,5 @@
 [2026-06-22 16:08:39] [IN_PROGRESS] task_005: Añadir contenido a las páginas
 [2026-06-22 16:11:25] [COMPLETED] task_005: Añadir contenido a las páginas
 [2026-06-22 16:11:27] [IN_PROGRESS] task_006: Optimizar la carga del sitio web
+[2026-06-22 16:12:09] [COMPLETED] task_006: Optimizar la carga del sitio web
+[2026-06-22 16:12:11] [IN_PROGRESS] task_007: Prueba y ajuste del sitio web
